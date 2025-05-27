@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="mn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Тэгээс Эхэлсэн Түүх – Номын Танилцуулга</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+    .container { max-width: 800px; margin: auto; background: white; padding: 2rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    h1 { color: #202124; text-align: center; }
+    h2 { color: #4CAF50; }
+    img { max-width: 100%; margin: 1rem 0; }
+    .section { margin-bottom: 2rem; }
+    .cta { background: #4CAF50; color: white; padding: 1rem; text-align: center; border-radius: 5px; text-decoration: none; display: block; width: 100%; margin-top: 1.5rem; font-weight: bold; }
+    footer { text-align: center; color: #777; font-size: 0.9rem; margin-top: 2rem; }
+    .highlight { background: #fff8e1; padding: 1rem; border-left: 5px solid #ff9800; margin-bottom: 2rem; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>📘 Тэгээс Эхэлсэн Түүх</h1>
+    <h2>Санхүүгийн эрх чөлөөнд хүрсэн бодит замнал</h2>
+
+    <div class="section">
+      <img src="https://example.com/book-cover.jpg" alt="Номын хавтас">
+      <p>Энэ ном бол санхүүгийн зовлон, уналт, дотоод ялалт, ухамсрын өөрчлөлтийн бодит туулсан түүх юм. Арилжааны ертөнц, сэтгэлзүйн сорилт, мөрөөдөлдөө үнэнч байсныг өгүүлэх нандин бүтээл.</p>
+    </div>
+
+    <div class="highlight">
+      <strong>🕒 Эрт бүртгэгчдийн онцгой боломж:</strong><br>
+      <strong>2025.05.28 - 2025.06.04</strong> хуртэл номын үнэ <strong>59,000₮</strong> байна. Энэ хугацаанд захиалж авсан хүмүүс номын нээлтэнд хамрагдана.
+    </div>
+
+    <div class="section">
+      <h2>📖 Номоос олж авах зүйлс</h2>
+      <ul>
+        <li>Арилжааны сэтгэлзүйн бодит туршлага</li>
+        <li>Алдаанаасаа хэрхэн суралцсан замнал</li>
+        <li>Санхүүгийн эрх чөлөөний ухаан</li>
+        <li>Амьдралын болон дотоод өөрчлөлтийн үнэ цэнэ</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>📦 Номын үнэ ба захиалга</h2>
+      <p><strong>Үнэ:</strong> 59,000₮</p>
+      <p><strong>Хүргэлт:</strong> Улаанбаатар хот дотор үнэгүй</p>
+      <p>Захиалах бол дараах холбоос дээр дарна уу:</p>
+      <a class="cta" href="https://forms.gle/example-form-link" target="_blank">📥 Одоо Захиалах</a>
+    </div>
+
+    <footer>
+      © 2025 Баярсайхан Пүрэв-Очир | www.otheory.mn
+    </footer>
+  </div>
+</body>
+</html>
